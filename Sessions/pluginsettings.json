@@ -1,0 +1,17 @@
+{
+  "WindowX": "NaN",
+  "WindowY": "NaN",
+  "WindowWidth": 400.0,
+  "WindowHeight": 600.0,
+  "TaskSettings": [
+    {
+      "$type": "Articy.AiExtensions.DialogueChatSettings, Articy.AiExtensions",
+      "CreateUnknownSpeakers": true,
+      "WhereToPlaceCreatedSpeakers": 216172785005863603,
+      "Model": 0,
+      "AdditionalContextObject": 0,
+      "IncludePromptsAndResponsesInLogFile": true
+    }
+  ],
+  "DoNotShowInfoAgain": false
+}

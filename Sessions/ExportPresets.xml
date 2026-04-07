@@ -1,0 +1,102 @@
+<ExportPresets LastType="UnrealExport">
+  <Preset DisplayName="Test" Type="JsonExport">
+    <ExportSettings Type="JsonExport">
+      <Filename>C:\Users\user\Documents\ArticyUnannouncedProject.json</Filename>
+      <CustomSettings>
+        <Option Name="set_Localization" Value="False"/>
+        <Option Name="set_TextFormatter" Value=""/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037928194" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037928191</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="DocxExport">
+    <ExportSettings Type="DocxExport">
+      <Filename>C:\Users\user\Desktop\ArticyUnannouncedProject.docx</Filename>
+      <PageSize>Letter</PageSize>
+      <GroupedBy>Folder</GroupedBy>
+      <SortedBy>DisplayName</SortedBy>
+      <HyperlinkOnReferences>1</HyperlinkOnReferences>
+      <ExportMethod>Single</ExportMethod>
+      <IncludeImages>1</IncludeImages>
+      <SideBySideImages>0</SideBySideImages>
+      <InsertTableOfContents>1</InsertTableOfContents>
+      <IncludeTitlePage>1</IncludeTitlePage>
+      <IncludeTechnicalNames>0</IncludeTechnicalNames>
+      <ExportMarkup>1</ExportMarkup>
+      <AutoOpenFile>1</AutoOpenFile>
+      <ExportQueries>1</ExportQueries>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="XlsxExport">
+    <ExportSettings Type="XlsxExport">
+      <Filename>C:\Users\user\Documents\ArticyUnannouncedProject.xlsx</Filename>
+      <TablePerGroup>1</TablePerGroup>
+      <GroupedBy>ObjectType</GroupedBy>
+      <SortedBy>DisplayName</SortedBy>
+      <WhichName>DisplayName</WhichName>
+      <FeatureOrder>Alphabetical</FeatureOrder>
+      <CollectStatistics>1</CollectStatistics>
+      <ExportMarkup>0</ExportMarkup>
+      <VariableOrder>Namespace</VariableOrder>
+      <ExportQueries>False</ExportQueries>
+      <PageSize>A4</PageSize>
+      <AutoOpenFile>1</AutoOpenFile>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="Unreal4Export">
+    <ExportSettings Type="Unreal4Export">
+      <Filename>C:\Projects\UnannouncedProject\Content\ArticyDataParser\ArticyData\ArticyData.articyue4</Filename>
+      <CustomSettings>
+        <Option Name="set_Localization" Value="False"/>
+        <Option Name="set_TextFormatter" Value="Unity"/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037939578" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037939571</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="JsonExport">
+    <ExportSettings Type="JsonExport">
+      <Filename>C:\Users\user\Downloads\ArticyUnannouncedProject.json</Filename>
+      <CustomSettings>
+        <Option Name="set_Localization" Value="False"/>
+        <Option Name="set_TextFormatter" Value=""/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037939578" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037939571</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="XlsxForReimport">
+    <ExportSettings Type="XlsxForReimport">
+      <Filename>C:\Users\user\Documents\ArticyUnannouncedProject.xlsx</Filename>
+      <SortObjectsBy>DisplayName</SortObjectsBy>
+      <SelectedProperties>Asset.Color;Asset.Text;Asset.ExternalId;Asset.ImageHeight;Asset.ImageWidth;Asset.OriginalSource;Asset.Url;Condition.Color;Condition.Text;Condition.Expression;Condition.ExternalId;Condition.Url;DialogueFragment.Color;DialogueFragment.Speaker;DialogueFragment.StageDirections;DialogueFragment.MenuText;DialogueFragment.Text;DialogueFragment.ExternalId;DialogueFragment.Url;DialogueFragment.DialogueChoiceTemplate.DialogueChoiseFeature.AudioTag;DialogueFragment.DialogueChoiceTemplate.DialogueChoiseFeature.DialogType;DialogueFragment.DialogueChoiceTemplate.DialogueChoiseFeature.DisplayOrder;DialogueFragment.EnemyDialogueTemplate.DialogueSegmentFeature.AudioTag;DialogueFragment.EnemyDialogueTemplate.DialogueSegmentFeature.CharacterRole;DialogueFragment.EnemyDialogueTemplate.DialogueSegmentFeature.DialogFragmentType;DialogueFragment.FriendDialogueTemplate.DialogueSegmentFeature.AudioTag;DialogueFragment.FriendDialogueTemplate.DialogueSegmentFeature.CharacterRole;DialogueFragment.FriendDialogueTemplate.DialogueSegmentFeature.DialogFragmentType;DialogueFragment.NPCDialogueTemplate.DialogueSegmentFeature.AudioTag;DialogueFragment.NPCDialogueTemplate.DialogueSegmentFeature.CharacterRole;DialogueFragment.NPCDialogueTemplate.DialogueSegmentFeature.DialogFragmentType;DialogueFragment.ProtagonistDialogueTemplate.DialogueSegmentFeature.AudioTag;DialogueFragment.ProtagonistDialogueTemplate.DialogueSegmentFeature.CharacterRole;DialogueFragment.ProtagonistDialogueTemplate.DialogueSegmentFeature.DialogFragmentType;DialogueFragment.ProtagonistMonologueTemplate.DialogueSegmentFeature.AudioTag;DialogueFragment.ProtagonistMonologueTemplate.DialogueSegmentFeature.CharacterRole;DialogueFragment.ProtagonistMonologueTemplate.DialogueSegmentFeature.DialogFragmentType;Dialogue.Color;Dialogue.Text;Dialogue.Attachments;Dialogue.PreviewImageAsset;Dialogue.ExternalId;Dialogue.Url;Dialogue.BlockCutsceneDialogue.MainDialogue.DialogueInputMode;Dialogue.BlockCutsceneDialogue.MainDialogue.DialoguePriority;Dialogue.BlockCutsceneDialogue.MainDialogue.DialogueTag;Dialogue.BlockCutsceneDialogue.MainDialogue.IsDialogueOneShot;Dialogue.BlockCutsceneDialogue.MainDialogue.QueryReferenceStrip;Dialogue.BlockCutsceneDialogue.MainDialogue.Scene;Dialogue.BanterDialogue.BanterDialogue.DialogueCooldown;Dialogue.BanterDialogue.BanterDialogue.DialoguePriority;Dialogue.BanterDialogue.BanterDialogue.DialogueProbability;Dialogue.BanterDialogue.BanterDialogue.DialogueTag;Dialogue.BanterDialogue.BanterDialogue.IsDialogueOneShot;Dialogue.BanterDialogue.BanterDialogue.MixProfile;Dialogue.BanterDialogue.BanterDialogue.QueryReferenceStrip;Dialogue.BanterDialogue.BanterDialogue.Scene;Dialogue.BanterDialogue.BanterDialogue.SubtitleMode;Dialogue.Bark.BarkDialogue.DialogueCooldown;Dialogue.Bark.BarkDialogue.DialoguePriority;Dialogue.Bark.BarkDialogue.DialogueTag;Dialogue.Bark.BarkDialogue.IsDialogueOneShot;Dialogue.Bark.BarkDialogue.QueryReferenceStrip;Dialogue.Bark.BarkDialogue.Scene;Dialogue.Bark.BarkDialogue.SubtitleMode;Dialogue.InternalAmbient.InternalAmbientDialogue.QueryReferenceStrip;Dialogue.InternalAmbient.InternalAmbientDialogue.Scene;Dialogue.InternalAmbient.InternalAmbientDialogue.SubtitleMode;Dialogue.CombatVO.CombatVO.CombatConcurrencyGroup;Dialogue.CombatVO.CombatVO.DialogueCooldown;Dialogue.CombatVO.CombatVO.DialoguePriority;Dialogue.CombatVO.CombatVO.DialogueProbability;Dialogue.CombatVO.CombatVO.DialogueTag;Dialogue.CombatVO.CombatVO.IsDialogueOneShot;Dialogue.CombatVO.CombatVO.MixProfile;Dialogue.CombatVO.CombatVO.QueryReferenceStrip;Dialogue.CombatVO.CombatVO.Scene;Dialogue.CombatVO.CombatVO.SubtitleMode;Dialogue.WorldAmbient.WorldAmbientLine.DialogueCooldown;Dialogue.WorldAmbient.WorldAmbientLine.DialoguePriority;Dialogue.WorldAmbient.WorldAmbientLine.DialogueProbability;Dialogue.WorldAmbient.WorldAmbientLine.DialogueTag;Dialogue.WorldAmbient.WorldAmbientLine.IsDialogueOneShot;Dialogue.WorldAmbient.WorldAmbientLine.MixProfile;Dialogue.WorldAmbient.WorldAmbientLine.QueryReferenceStrip;Dialogue.WorldAmbient.WorldAmbientLine.Scene;Dialogue.WorldAmbient.WorldAmbientLine.SubtitleMode;Dialogue.WorldConversationScene.WorldConversation.DialoguePriority;Dialogue.WorldConversationScene.WorldConversation.DialogueTag;Dialogue.WorldConversationScene.WorldConversation.MixProfile;Dialogue.WorldConversationScene.WorldConversation.QueryReferenceStrip;Dialogue.WorldConversationScene.WorldConversation.Scene;Dialogue.WorldConversationScene.WorldConversation.SubtitleMode;Document.Color;Document.Text;Document.ExternalId;Document.Url;Entity.Color;Entity.Text;Entity.Attachments;Entity.PreviewImageAsset;Entity.ExternalId;Entity.Url;Entity.DefaultMainCharacterTemplate.DefaultBasicCharacterFeature.Accent;Entity.DefaultMainCharacterTemplate.DefaultBasicCharacterFeature.ApparentAge;Entity.DefaultMainCharacterTemplate.DefaultBasicCharacterFeature.Appearance;Entity.DefaultMainCharacterTemplate.DefaultBasicCharacterFeature.Occupation;Entity.DefaultMainCharacterTemplate.DefaultBasicCharacterFeature.Personality;Entity.DefaultMainCharacterTemplate.DefaultBasicCharacterFeature.RealAge;Entity.DefaultMainCharacterTemplate.DefaultBasicCharacterFeature.Sex;Entity.DefaultMainCharacterTemplate.DefaultExtendedCharacterFeature.Enemies;Entity.DefaultMainCharacterTemplate.DefaultExtendedCharacterFeature.Family;Entity.DefaultMainCharacterTemplate.DefaultExtendedCharacterFeature.Fears;Entity.DefaultMainCharacterTemplate.DefaultExtendedCharacterFeature.Friends;Entity.DefaultMainCharacterTemplate.DefaultExtendedCharacterFeature.FurtherDetails;Entity.DefaultMainCharacterTemplate.DefaultExtendedCharacterFeature.Habits;Entity.DefaultMainCharacterTemplate.DefaultExtendedCharacterFeature.InnerConflict;Entity.DefaultMainCharacterTemplate.DefaultExtendedCharacterFeature.Motivation;Entity.DefaultMainCharacterTemplate.DefaultExtendedCharacterFeature.Skills;Entity.DefaultSupportingCharacterTemplate.DefaultBasicCharacterFeature.Accent;Entity.DefaultSupportingCharacterTemplate.DefaultBasicCharacterFeature.ApparentAge;Entity.DefaultSupportingCharacterTemplate.DefaultBasicCharacterFeature.Appearance;Entity.DefaultSupportingCharacterTemplate.DefaultBasicCharacterFeature.Occupation;Entity.DefaultSupportingCharacterTemplate.DefaultBasicCharacterFeature.Personality;Entity.DefaultSupportingCharacterTemplate.DefaultBasicCharacterFeature.RealAge;Entity.DefaultSupportingCharacterTemplate.DefaultBasicCharacterFeature.Sex;FlowFragment.Color;FlowFragment.Text;FlowFragment.Attachments;FlowFragment.PreviewImageAsset;FlowFragment.ExternalId;FlowFragment.Url;FlowFragment.Chapter.FlowGragmentCategory.FlowGragmentCategory;FlowFragment.Chapter.LevelsList.LevelsList;FlowFragment.DialogueDecisionTemplate.FlowGragmentCategory.FlowGragmentCategory;FlowFragment.Level.FlowGragmentCategory.FlowGragmentCategory;FlowFragment.Level.QuestsList.QuestsList;FlowFragment.Other.FlowGragmentCategory.FlowGragmentCategory;FlowFragment.Quest.FlowGragmentCategory.FlowGragmentCategory;FlowFragment.Quest.QuestState.QuestState;Hub.Color;Hub.Text;Hub.ExternalId;Hub.Url;Hub.DialogueChoiceHubTemplate.DialogueChoiceHubFeature.ChoiceTimeout;Hub.DialogueChoiceHubTemplate.DialogueChoiceHubFeature.ChoiceUrgencyOnChoiceBehavior;Hub.DialogueChoiceHubTemplate.DialogueChoiceHubFeature.ChoiceUrgencyStartDelaySeconds;Hub.DialogueChoiceHubTemplate.DialogueChoiceHubFeature.DefaultChoice;Hub.DialogueChoiceHubTemplate.DialogueChoiceHubFeature.isAllowEndConversationOption;LocationImage.Color;LocationImage.Text;LocationImage.PreviewImageAsset;LocationImage.ExternalId;LocationImage.Selectability;LocationImage.Visibility;LocationImage.AutoDisplayNamePosition;LocationImage.DisplayNameColor;LocationImage.DisplayNamePosX;LocationImage.DisplayNamePosY;LocationImage.DisplayNameSize;LocationImage.DropShadow;LocationImage.FillColor;LocationImage.ImageAsset;LocationImage.ImageOpacity;LocationImage.OutlineColor;LocationImage.OutlineSize;LocationImage.OutlineStyle;LocationImage.ShowDisplayName;LocationImage.TransformPivotX;LocationImage.TransformPivotY;LocationImage.TransformRotation;LocationImage.TransformXAxisX;LocationImage.TransformXAxisY;LocationImage.TransformYAxisX;LocationImage.TransformYAxisY;LocationImage.Url;Instruction.Color;Instruction.Text;Instruction.Expression;Instruction.ExternalId;Instruction.Url;Jump.Color;Jump.Text;Jump.ExternalId;Jump.Target;Jump.Url;Link.Color;Link.Text;Link.ExternalId;Link.Selectability;Link.Visibility;Link.DisplayNameColor;Link.DisplayNameSize;Link.DropShadow;Link.LinkStyleSize;Link.LinkStyleType;Link.ShowDisplayName;Link.Target;Link.Url;Location.Color;Location.Text;Location.Attachments;Location.PreviewImageAsset;Location.ExternalId;Location.DisplayNameColorForImage;Location.DisplayNameColorForLink;Location.DisplayNameColorForPath;Location.DisplayNameColorForSpot;Location.DisplayNameColorForZone;Location.DisplayNameSizeForImage;Location.DisplayNameSizeForLink;Location.DisplayNameSizeForPath;Location.DisplayNameSizeForSpot;Location.DisplayNameSizeForZone;Location.DropShadowForImage;Location.DropShadowForLink;Location.DropShadowForPath;Location.DropShadowForSpot;Location.DropShadowForText;Location.DropShadowForZone;Location.LinkStyleSize;Location.LinkStyleType;Location.ShowDisplayNameForImage;Location.ShowDisplayNameForLink;Location.ShowDisplayNameForPath;Location.ShowDisplayNameForSpot;Location.ShowDisplayNameForZone;Location.SpotStyleSize;Location.SpotStyleType;Location.Url;Path.Color;Path.Text;Path.PreviewImageAsset;Path.ExternalId;Path.Selectability;Path.Visibility;Path.AutoDisplayNamePosition;Path.DisplayNameColor;Path.DisplayNamePosX;Path.DisplayNamePosY;Path.DisplayNameSize;Path.DropShadow;Path.EndCap;Path.FillColor;Path.LineWidth;Path.OutlineColor;Path.OutlineSize;Path.OutlineStyle;Path.ShowDisplayName;Path.StartCap;Path.TransformPivotX;Path.TransformPivotY;Path.TransformRotation;Path.TransformXAxisX;Path.TransformXAxisY;Path.TransformYAxisX;Path.TransformYAxisY;Path.Url;Spot.Color;Spot.Text;Spot.PreviewImageAsset;Spot.ExternalId;Spot.Selectability;Spot.Visibility;Spot.DisplayNameColor;Spot.DisplayNameSize;Spot.DropShadow;Spot.FillColor;Spot.OutlineColor;Spot.OutlineSize;Spot.OutlineStyle;Spot.ShowDisplayName;Spot.SpotStyleSize;Spot.SpotStyleType;Spot.Url;TextObject.Color;TextObject.Text;TextObject.Attachments;TextObject.PreviewImageAsset;TextObject.ExternalId;TextObject.Url;LocationText.Color;LocationText.Text;LocationText.PreviewImageAsset;LocationText.ExternalId;LocationText.Selectability;LocationText.Visibility;LocationText.AutoDisplayNamePosition;LocationText.DisplayNamePosX;LocationText.DisplayNamePosY;LocationText.DropShadow;LocationText.FillColor;LocationText.ForcedHeight;LocationText.ForcedWidth;LocationText.OutlineColor;LocationText.OutlineSize;LocationText.OutlineStyle;LocationText.TransformPivotX;LocationText.TransformPivotY;LocationText.TransformRotation;LocationText.TransformXAxisX;LocationText.TransformXAxisY;LocationText.TransformYAxisX;LocationText.TransformYAxisY;LocationText.Url;Zone.Color;Zone.Text;Zone.PreviewImageAsset;Zone.ExternalId;Zone.Selectability;Zone.Visibility;Zone.AutoDisplayNamePosition;Zone.DisplayNameColor;Zone.DisplayNamePosX;Zone.DisplayNamePosY;Zone.DisplayNameSize;Zone.DropShadow;Zone.FillColor;Zone.OutlineColor;Zone.OutlineSize;Zone.OutlineStyle;Zone.ShowDisplayName;Zone.TransformPivotX;Zone.TransformPivotY;Zone.TransformRotation;Zone.TransformXAxisX;Zone.TransformXAxisY;Zone.TransformYAxisX;Zone.TransformYAxisY;Zone.Url</SelectedProperties>
+      <AutoOpenFile>1</AutoOpenFile>
+      <ExportQueries>1</ExportQueries>
+      <MarkupTextFormat>Plain</MarkupTextFormat>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="UnrealExport">
+    <ExportSettings Type="UnrealExport">
+      <Filename>C:\Projects\FAB Projects\DialogueSystemProject\DialogueSystemUE\Content\DialogueSystemArticy.articyue</Filename>
+      <CustomSettings>
+        <Option Name="set_TextFormatter" Value="Unity"/>
+        <Option Name="set_IncludingAssets" Value="True"/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets, Languages"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037939578" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037939571</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
+</ExportPresets>
